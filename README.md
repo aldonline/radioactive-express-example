@@ -1,7 +1,7 @@
 
 # What is this?
 
-This project packages the following technologies:
+This project combines the following technologies:
 
 * [Radioactive UI framework ( technology preview version )](https://github.com/aldonline/radioactive)
 * [Express.js](http://expressjs.com/)
@@ -9,7 +9,7 @@ This project packages the following technologies:
 
 # What can I use it for?
 
-As a basis to build your own [Radioactive](https://github.com/aldonline/radioactive) webapp.
+As a basis to build your own [Radioactive](https://github.com/aldonline/radioactive) HTML5 Web Application.
 Note that this is meant for members of the core Radioactive Development Group. This is all the documentation you'll find.
 
 # How?
@@ -20,7 +20,7 @@ Note that this is meant for members of the core Radioactive Development Group. T
     npm start
     open http://localhost:3001/
 
-The go head and edit [/lib/client/main.coffee] to get going
+The go head and edit [/lib/client/main.coffee](https://github.com/aldonline/radioactive-express-example/blob/master/lib/client/main.coffee) to get going
 
 # Extras
 
