@@ -1,0 +1,15 @@
+{
+  "name": "radioactive-express-example",
+  "version": "0.0.1",
+  "description": "Radioactive + Node.js + express.js Webapp Skeleton",
+  "author": "Aldo Bucchi <aldo.bucchi@gmail.com>",
+  "private": true,
+  "scripts": {
+    "start": "coffee server.coffee"
+  },
+  "dependencies": {
+    "radioactive": "0.0.12",
+    "express": "~3.2.6",
+    "coffee-script": "~1.6.3"
+  }
+}
